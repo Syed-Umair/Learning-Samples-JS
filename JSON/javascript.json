@@ -1,0 +1,75 @@
+{
+	"JavaScript": "JavaScript is a cross-platform, object-oriented scripting language. It is a small and lightweight language. Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them.",
+
+	"jQuery": "jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.",
+
+	"AngularJS": "AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to write.",
+
+	"NodeJS": "Node.js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.",
+
+	"JS1": 
+	{ 
+		"Question": "Why it is not preferable to always use global variables in JavaScript?",
+		"Answer": "Global Variables are not always preferable because the same name can't be used for functions and variables since it will overwrite the type and 
+		it will also affect the performance since global variables will be added as a property to the window object. The reuse of global variables may overwrite the 
+		previous value and type of it during asynchronous code executions.",
+		"Date": "6/14/17",
+		"Posted By": "Admin"
+	},
+	"JS2": 
+	{ 
+		"Question": "",
+		"Answer": "",
+		"Date": "6/14/17",
+		"Posted By": "Admin"
+	},
+	"JS2": 
+	{ 
+		"Question": "",
+		"Answer": "",
+		"Date": "6/14/17",
+		"Posted By": "Admin"
+	},
+	"JS2": 
+	{ 
+		"Question": "",
+		"Answer": "",
+		"Date": "6/14/17",
+		"Posted By": "Admin"
+	},
+	"JS2": 
+	{ 
+		"Question": "",
+		"Answer": "",
+		"Date": "6/14/17",
+		"Posted By": "Admin"
+	},
+	"JS2": 
+	{ 
+		"Question": "",
+		"Answer": "",
+		"Date": "6/14/17",
+		"Posted By": "Admin"
+	},
+	"JS2": 
+	{ 
+		"Question": "",
+		"Answer": "",
+		"Date": "6/14/17",
+		"Posted By": "Admin"
+	},
+	"JS2": 
+	{ 
+		"Question": "",
+		"Answer": "",
+		"Date": "6/14/17",
+		"Posted By": "Admin"
+	},
+	"JS2": 
+	{ 
+		"Question": "",
+		"Answer": "",
+		"Date": "6/14/17",
+		"Posted By": "Admin"
+	}
+}

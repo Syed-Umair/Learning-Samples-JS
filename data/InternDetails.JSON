@@ -1,0 +1,16 @@
+{
+	"Emp1": 
+	{ 
+		"name": "boston",
+		"age": "21",
+		"id": "1234",
+		"type": "intern"
+	},
+	"Emp2": 
+	{ 
+		"name": "king",
+		"age": "22",
+		"id": "1235",
+		"type": "intern"
+	}
+}
